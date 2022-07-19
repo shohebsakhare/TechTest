@@ -28,8 +28,8 @@ Following is the example of data which we will receive from the above endpoints
   }
 ]
 ```
-In this API swagger has been configured for having cleaner look for executing API's.
-This web api consists of 2 operations :
+
+In the source code web api consists of 2 operations :
 1. To get all data from above mentioned endpoint which will have combined data of albums and collections of photos . Following is the example of result which we will receive from this api
 
  ``` 
