@@ -1,0 +1,13 @@
+D:\TechTest\TechTest\TechTestApiHandler\bin\Debug\netcoreapp3.1\TechTestApiHandler.deps.json
+D:\TechTest\TechTest\TechTestApiHandler\bin\Debug\netcoreapp3.1\TechTestApiHandler.dll
+D:\TechTest\TechTest\TechTestApiHandler\bin\Debug\netcoreapp3.1\TechTestApiHandler.pdb
+D:\TechTest\TechTest\TechTestApiHandler\bin\Debug\netcoreapp3.1\TechTestCore.dll
+D:\TechTest\TechTest\TechTestApiHandler\bin\Debug\netcoreapp3.1\TechTestCore.pdb
+D:\TechTest\TechTest\TechTestApiHandler\obj\Debug\netcoreapp3.1\TechTestApiHandler.csproj.AssemblyReference.cache
+D:\TechTest\TechTest\TechTestApiHandler\obj\Debug\netcoreapp3.1\TechTestApiHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechTest\TechTest\TechTestApiHandler\obj\Debug\netcoreapp3.1\TechTestApiHandler.AssemblyInfoInputs.cache
+D:\TechTest\TechTest\TechTestApiHandler\obj\Debug\netcoreapp3.1\TechTestApiHandler.AssemblyInfo.cs
+D:\TechTest\TechTest\TechTestApiHandler\obj\Debug\netcoreapp3.1\TechTestApiHandler.csproj.CoreCompileInputs.cache
+D:\TechTest\TechTest\TechTestApiHandler\obj\Debug\netcoreapp3.1\TechTestApiHandler.csproj.CopyComplete
+D:\TechTest\TechTest\TechTestApiHandler\obj\Debug\netcoreapp3.1\TechTestApiHandler.dll
+D:\TechTest\TechTest\TechTestApiHandler\obj\Debug\netcoreapp3.1\TechTestApiHandler.pdb

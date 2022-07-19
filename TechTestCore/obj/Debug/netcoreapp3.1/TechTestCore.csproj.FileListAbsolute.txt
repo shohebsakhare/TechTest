@@ -1,0 +1,10 @@
+D:\TechTest\TechTest\TechTestCore\bin\Debug\netcoreapp3.1\TechTestCore.deps.json
+D:\TechTest\TechTest\TechTestCore\bin\Debug\netcoreapp3.1\TechTestCore.dll
+D:\TechTest\TechTest\TechTestCore\bin\Debug\netcoreapp3.1\TechTestCore.pdb
+D:\TechTest\TechTest\TechTestCore\obj\Debug\netcoreapp3.1\TechTestCore.csproj.AssemblyReference.cache
+D:\TechTest\TechTest\TechTestCore\obj\Debug\netcoreapp3.1\TechTestCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechTest\TechTest\TechTestCore\obj\Debug\netcoreapp3.1\TechTestCore.AssemblyInfoInputs.cache
+D:\TechTest\TechTest\TechTestCore\obj\Debug\netcoreapp3.1\TechTestCore.AssemblyInfo.cs
+D:\TechTest\TechTest\TechTestCore\obj\Debug\netcoreapp3.1\TechTestCore.csproj.CoreCompileInputs.cache
+D:\TechTest\TechTest\TechTestCore\obj\Debug\netcoreapp3.1\TechTestCore.dll
+D:\TechTest\TechTest\TechTestCore\obj\Debug\netcoreapp3.1\TechTestCore.pdb
