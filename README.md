@@ -1,4 +1,4 @@
-# This is source code of the API which will be used to call, combine, and return data from the following API endpoints .
+# This is source code of the Rest API which will be used to call, combine, and return data from the following API endpoints .
 
 http://jsonplaceholder.typicode.com/photos
 
@@ -29,7 +29,7 @@ Following is the example of data which we will receive from the above endpoints
 ]
 ```
 
-In the source code web api consists of 2 operations :
+In the source code, web api consists of 2 operations :
 1. To get all data from above mentioned endpoint which will have combined data of albums and collections of photos . Following is the example of result which we will receive from this api
 
  ``` 
